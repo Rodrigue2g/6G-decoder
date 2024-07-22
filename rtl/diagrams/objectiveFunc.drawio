@@ -1,0 +1,75 @@
+<mxfile host="65bd71144e">
+    <diagram id="5DIWrdhLwUrtFaI1QlfB" name="Page-1">
+        <mxGraphModel dx="1197" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="7" value="" style="whiteSpace=wrap;html=1;fillColor=#EECEB8;strokeColor=#000000;strokeWidth=2;perimeterSpacing=2;rounded=0;arcSize=1;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="346.25" width="298" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="" style="whiteSpace=wrap;html=1;fillColor=#ACBAD5;strokeColor=#000000;gradientColor=none;strokeWidth=2;perimeterSpacing=2;rounded=0;arcSize=1;rotation=-180;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="596" width="297.37" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 19px;&quot;&gt;Output Buffer&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
+                    <mxGeometry x="323.68" y="611" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="129" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#007FFF;fillColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="144" y="260" width="30" height="252.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="130" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#007FFF;" parent="129" vertex="1">
+                    <mxGeometry width="30" height="63" as="geometry"/>
+                </mxCell>
+                <mxCell id="131" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#007FFF;" parent="130" vertex="1">
+                    <mxGeometry width="30" height="63" as="geometry">
+                        <mxRectangle width="30" height="63" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="132" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#007FFF;" parent="129" vertex="1">
+                    <mxGeometry y="63" width="30" height="64" as="geometry"/>
+                </mxCell>
+                <mxCell id="133" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#007FFF;" parent="132" vertex="1">
+                    <mxGeometry width="30" height="64" as="geometry">
+                        <mxRectangle width="30" height="64" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="134" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#007FFF;" parent="129" vertex="1">
+                    <mxGeometry y="127" width="30" height="62" as="geometry"/>
+                </mxCell>
+                <mxCell id="135" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#007FFF;" parent="134" vertex="1">
+                    <mxGeometry width="30" height="62" as="geometry">
+                        <mxRectangle width="30" height="62" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="136" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#007FFF;" parent="129" vertex="1">
+                    <mxGeometry y="189" width="30" height="64" as="geometry"/>
+                </mxCell>
+                <mxCell id="137" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#007FFF;" parent="136" vertex="1">
+                    <mxGeometry width="30" height="64" as="geometry">
+                        <mxRectangle width="30" height="64" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="45" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Input registers (x&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px; background-color: initial;&quot;&gt;, y, H)&lt;/b&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="376.42999999999984" width="240" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="157" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.d_type_flip-flop;" parent="1" vertex="1">
+                    <mxGeometry x="337.37" y="340" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="158" value="" style="whiteSpace=wrap;html=1;fillColor=#ACBAD5;strokeColor=#000000;gradientColor=none;strokeWidth=2;perimeterSpacing=2;rounded=0;arcSize=1;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="395" y="-40" width="60" height="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="159" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 19px;&quot;&gt;Control Unit&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="155" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="161" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="250" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="162" value="Mux" style="shadow=0;dashed=0;align=center;html=1;strokeWidth=1;shape=mxgraph.electrical.abstract.mux2;" parent="1" vertex="1">
+                    <mxGeometry x="337.37" y="450" width="80" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="163" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Counter.svg;imageBackground=none;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="600" width="64" height="52" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
